@@ -1,0 +1,11 @@
+Project bundle contents
+- README.md: project setup and definitions
+- docs/problem_statement.md: project framing and success criteria
+- docs/star_schema.md: conceptual schema
+- docs/data_quality_report.md: generated report after running the validation script
+- docs/official_verification_template.csv: five-player source reconciliation template
+- scripts/clean_validate.py: Python data cleaning and validation
+- sql/01_schema.sql: Oracle table DDL
+- sql/02_batting_bowling_queries.sql: aggregate views and rank queries
+- powerbi/dashboard_blueprint.md: Power BI page plan and DAX starters
+- data/: provided cleaned CSVs
